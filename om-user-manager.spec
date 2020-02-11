@@ -48,7 +48,7 @@ OpenMandriva user manager.
 %files
 %{_datadir}/polkit-1/actions/org.openmandriva.kcm.users.policy
 %{_datadir}/dbus-1/system-services/org.openmandriva.kcm.users.service
-%{_sysconfdir}/dbus-1/system.d/org.openmandriva.kcm.users.conf
+%{_datadir}/dbus-1/system.d/org.openmandriva.kcm.users.conf
 %{_libdir}/libexec/kauth/kcm_users_authhelper
 %{_libdir}/qt5/plugins/kcm_users.so
 %{_datadir}/kservices5/kcm_users.desktop
