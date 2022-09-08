@@ -4,7 +4,7 @@
 Summary: 	OpenMandriva user manager
 Name: 		om-user-manager
 Version: 	0.0.1
-Release: 	2
+Release: 	3
 Source0: 	https://github.com/OpenMandrivaSoftware/om-user-manager/archive/v%{version}.tar.gz
 Url: 		https://github.com/OpenMandrivaSoftware/om-user-manager
 License: 	GPL
